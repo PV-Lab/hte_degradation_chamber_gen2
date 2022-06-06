@@ -50,7 +50,8 @@ Installation of software in Windows 10 64-bit:
     -  This setup has been implemented using Adafruit Si7021 library version 1.2.0 and Adafruit Unified Sensor library version 1.1.5.
   - Open Arduino programming interface and run the humidity control program.
     - Humidity_control_via_valve_v20220606/Humidity_control_via_valve_v20220606.ino
-
+- Illumination control
+  - TO DO
 Use of the degradation chamber:
 
 - MIT Gen 2 Chamber build guide.docx
