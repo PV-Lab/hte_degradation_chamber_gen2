@@ -69,7 +69,7 @@ Analysis of the resulting picture data:
 ||                    |
 | ------------- | ------------------------------ |
 | **AUTHORS**      | Alex Encinas, Clio Batali, Armi Tiihonen | 
-| **VERSION**      | 1.0 / Jan, 2021     | 
+| **VERSION**      | 1.0 / Jun, 2022     | 
 | **EMAILS**      | armi.tiihonen@gmail.com | 
 ||                    |
 
