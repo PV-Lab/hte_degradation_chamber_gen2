@@ -23,12 +23,12 @@ To install, just clone this repository and analysis codes repository. Either dow
 
 Assembly of the degradation chamber:
 
-- MIT Gen 2 Chamber Build Guide.docx
+- MIT Gen 2 Chamber Build Guide.pdf
 
 Installation of software in Windows 10 64-bit:
 
 - Camera control
-  - Connect camera to the laptop according to the instructions in Assembly_instructions.pdf.
+  - Connect camera to the laptop according to the instructions in MIT Gen 2 Chamber Build Guide.pdf.
   - Install LabVIEW.
     - This setup has been implemented with LabVIEW 2018 version 18.0.
   - Install ThorLabs control software (ThorCam) and programming interface (Windows SDK for DCx cameras, specifically the LabVIEW interface) for the camera according to the instructions from ThorLabs.
@@ -41,7 +41,7 @@ Installation of software in Windows 10 64-bit:
     - Camera_control_v4.vi: Current standard version. Controls the camera and saving of the pictures taken.
     - Note: DCx_Camera_SDK/OtherDrivers/LabVIEW/uc480.NET/uc480_SimpleLive.vi: This standalone vi is included in the ThorLabs SDK and provides live image feed without saving any images. It is useful for testing camera settings.
 - Humidity control
-  - Connect the humidity-temperature sensor and Arduino to the laptop according to the instructions in MIT Gen 2 Chamber Build Guide.docx.
+  - Connect the humidity-temperature sensor and Arduino to the laptop according to the instructions in MIT Gen 2 Chamber Build Guide.pdf.
   - Install Arduino programming interface according to the instructions from Arduino.
     - This setup has been implemented for Arduino Uno Rev2 SMD controller.
     - Arduino IDE software available for download: https://www.arduino.cc/en/software
@@ -56,7 +56,7 @@ Installation of software in Windows 10 64-bit:
   - TO DO
 Use of the degradation chamber:
 
-- MIT Gen 2 Chamber build guide.docx
+- MIT Gen 2 Chamber build guide.pdf
 
 Analysis of the resulting picture data:
 
