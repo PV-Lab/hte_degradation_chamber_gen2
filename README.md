@@ -77,9 +77,9 @@ Analysis of the resulting picture data:
 ## Authors
 ||                    |
 | ------------- | ------------------------------ |
-| **AUTHORS**      | Alex Encinas, Clio Batali, Armi Tiihonen | 
+| **AUTHORS**      |Alexander E. Siemenn, Armi Tiihonen | 
 | **VERSION**      | 1.0 / Jun, 2022     | 
-| **EMAILS**      | armi.tiihonen@gmail.com | 
+| **EMAILS**      |asiemenn@mit.edu, armi.tiihonen@gmail.com | 
 ||                    |
 
 ## Attribution
