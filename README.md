@@ -7,7 +7,9 @@ This repository contains detailed instructions for building and using a high-thr
 
 This chamber has capability of controlling temperature and humidity of the degradation chamber, and illumination. Sample degradation can be followed by automated, color calibrated pictures. The implementation shown here accommodates 28 perovskite film samples.
 
-This chamber is the Generation 2 chamber in an open-hardware project for developing degradation chambers for perovskite materials (see figure below). The project is described in detail in article: [insert details]
+This chamber is the Generation 2 chamber in our open-hardware project for developing degradation chambers for perovskite materials (see figure below) and is described in detail in our article:
+
+[1] Rodolfo Keesey, Armi Tiihonen, Alexander E. Siemenn, Thomas W. Colburn, Shijing Sun, Noor Titan Putri Hartono, James Serdy, Margaret Zeile, Keqing He, Cole A. Gurtner, Austin Cristobal Flick, Clio Batali, Alex Encinas, Richa R. Naik, Zhe Liu, Felipe Oviedo, I. Marius Peters, Janak Thapa, Siyu Isaac Parker Tian, Reinhold H. Dauskardt, Alexander Norquist, Tonio Buonassisi, "An Open-Source Environmental Chamber for Materials-Stability Testing Using an Optical Proxy", Digital Discovery, 2023, http://dx.doi.org/10.1039/D2DD00089J
 
 ![Degradation chamber generations in the open-hardware project. This repository describes MIT Gen. 2 chamber.](https://github.com/PV-Lab/hte_degradation_chamber/blob/main/Chamber_generations.png)
 
@@ -98,5 +100,4 @@ If you implement aging chambers or use the codes distributed in this repository,
       year = {2022}
     }
     
-    [insert article details here for the open hardware project]
-
+    Rodolfo Keesey, Armi Tiihonen, Alexander E. Siemenn, Thomas W. Colburn, Shijing Sun, Noor Titan Putri Hartono, James Serdy, Margaret Zeile, Keqing He, Cole A. Gurtner, Austin Cristobal Flick, Clio Batali, Alex Encinas, Richa R. Naik, Zhe Liu, Felipe Oviedo, I. Marius Peters, Janak Thapa, Siyu Isaac Parker Tian, Reinhold H. Dauskardt, Alexander Norquist, Tonio Buonassisi, "An Open-Source Environmental Chamber for Materials-Stability Testing Using an Optical Proxy", Digital Discovery, 2023, http://dx.doi.org/10.1039/D2DD00089J
